@@ -1,0 +1,54 @@
+body {
+  background-color: #c2d3be;
+  font-size: 25px;
+  padding-left: 10vh;
+  padding-right: 10vh;
+  padding-bottom: 10vh;
+  padding-top: 10vh;
+  font-family: "Scheherazade New", serif;
+}
+
+h1 {
+  border: 5px solid rgb(78, 78, 105);
+  border-radius: 30px;
+  text-align: center;
+  font-size: 70px;
+  margin-left: 30vh;
+  margin-right: 30vh;
+}
+
+h2 {
+  text-align: center;
+  padding-left: 40px;
+  font-size: 50px;
+}
+
+.blog-intro {
+  margin-left: 10vh;
+  margin-right: 20vh;
+  text-align: left;
+  font-size: 29px;
+}
+
+.blog {
+  border: 5px solid rgb(78, 78, 105);
+  border-radius: 20px;
+  margin-bottom: 50px;
+}
+
+.blog-image {
+  padding-left: 100px;
+  padding-bottom: 100px;
+}
+
+.blog-container {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+}
+
+.blog-review {
+  font-size: 25px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
